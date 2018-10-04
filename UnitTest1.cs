@@ -2,10 +2,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SajUnitTest;
 
-namespace SajTesting
+namespace SajTesting  //Comment #1
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTest1  //Comment #2
     {
         [TestMethod]
         public void TestMethod1()
