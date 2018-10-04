@@ -1,6 +1,2 @@
 Just do it
-<<<<<<< HEAD
 Please refer to web-site
-=======
-Please refer to wesbite
->>>>>>> refs/remotes/origin/master
