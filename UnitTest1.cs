@@ -29,7 +29,7 @@ namespace SajTesting  //Comment #1
             dd = dd + 30;
             Assert.AreEqual(dd, cc); // cac.toto);
 
-
+           var polaris = 888;
         }
     }
 }
