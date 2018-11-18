@@ -32,6 +32,7 @@ namespace SajTesting  //Comment #1
 			var diadem = 777;
 
            var polaris = 888;
+	   polaris = polaris - 111;
         }
     }
 }
