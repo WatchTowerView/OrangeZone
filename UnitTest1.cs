@@ -32,7 +32,8 @@ namespace SajTesting  //Comment #1
 			var diadem = 777;
 
            var polaris = 888;
-	   polaris = polaris - 111;  //do the math
+	       polaris = polaris - 111; /// rename this variable //do the math
+
         }
     }
 }
