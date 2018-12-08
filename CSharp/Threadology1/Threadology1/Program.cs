@@ -12,6 +12,8 @@ namespace Threadology1
         static void Main(string[] args)
         {
             Thread  smthred = new Thread(AuxWork);
+            smthred.Name = "Secondard Route Work";
+            smthred.Start();
 
             for (int i = 0; i < 1000; i++)
             {
